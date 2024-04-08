@@ -19,13 +19,3 @@ Meu nome é João, mas pode me chamar de **Oliver**!!!
 
 ##
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=auto align="center" src="https://github-readme-stats.vercel.app/api?username=Oliver-XVII&show_icons=true&include_all_commits=true&theme=great-gatsby" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oliver-XVII&layout=compact&langs_count=8&card_width=320&theme=great-gatsby" />
-</a>
-</div>
-
-![Snake animation](https://github.com/Oliver-XVII/Oliver-XVII/blob/output/github-contribuition-grid-snake.svg)
