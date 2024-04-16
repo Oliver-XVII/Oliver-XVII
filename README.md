@@ -14,7 +14,7 @@ Meu nome é João, mas pode me chamar de **Oliver**!!!
         <img height="157em"
             src="https://github-readme-stats.vercel.app/api?username=Oliver-XVII&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
         <img height="157em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-XVII&layout=compact&langs_count=4&theme=chartreuse-dark" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-XVII&layout=compact&langs_count=5&theme=chartreuse-dark&include_all_commits=true" />
 </div>
 
 ##
